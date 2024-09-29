@@ -13,6 +13,8 @@ Obrigado por acessar!
 - Marcus Vinicius Norberto Ideao 	119210145
 - Raphael Cavalcante Ramos 		120110277
 
+---
+
 # 🛠️ Tecnologias Utilizadas
 
  - Node.js
