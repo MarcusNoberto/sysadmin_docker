@@ -92,5 +92,10 @@ docker-compose up -d --build
 
 #### 5. A API estará disponível em:
 http://localhost:3001
+
+---
+# Tutoriais
+- https://www.youtube.com/watch?v=ntbpIfS44Gw
+- https://www.youtube.com/watch?v=pTFZFxd4hOI
  
 ---
