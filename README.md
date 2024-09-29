@@ -8,10 +8,10 @@ Obrigado por acessar!
 ---
 
 # Integrantes:
-Huggo Parcelly da Silva 		120210155
-Igor Tejo Bezerra R. Nogueira 	120210131
-Marcus Vinicius Norberto Ideao 	119210145
-Raphael Cavalcante Ramos 		120110277
+- Huggo Parcelly da Silva 		120210155
+- Igor Tejo Bezerra R. Nogueira 	120210131
+- Marcus Vinicius Norberto Ideao 	119210145
+- Raphael Cavalcante Ramos 		120110277
 
 # 🛠️ Tecnologias Utilizadas
 
